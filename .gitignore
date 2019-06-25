@@ -4,3 +4,7 @@ mnist/data/t10k-images-idx3-ubyte.gz
 mnist/data/t10k-labels-idx1-ubyte.gz
 *.gz
 sklearn/my_model.pkl
+sklearn/.ipynb_checkpoints/03_training_linear_models-checkpoint.ipynb
+sklearn/.ipyno_checkpoints
+sklearn/.ipynb_checkpoints/02_classification-checkpoint.ipynb
+sklearn/.ipynb_checkpoints/02_classification-checkpoint.ipynb
