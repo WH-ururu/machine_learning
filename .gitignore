@@ -22,3 +22,5 @@ sklearn/.ipynb_checkpoints/01_end_to_end_machine_learning_project-checkpoint.ipy
 R/.ipynb_checkpoints/1.Perceptron-checkpoint.ipynb
 sklearn/.ipynb_checkpoints/02_classification-checkpoint.ipynb
 sklearn/.ipynb_checkpoints/01_end_to_end_machine_learning_project-checkpoint.ipynb
+R_Machine_Learning_by_example
+R/.*
