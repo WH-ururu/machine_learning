@@ -24,3 +24,6 @@ sklearn/.ipynb_checkpoints/02_classification-checkpoint.ipynb
 sklearn/.ipynb_checkpoints/01_end_to_end_machine_learning_project-checkpoint.ipynb
 R_Machine_Learning_by_example
 R/.*
+sklearn/project/ml-at-work
+sklearn/project/python-machine-learning-book-2nd-edition
+.ipynb_checkpoints/05_Predicting_Customer_Shopping_Trends_with_Market_Basket_Analysis-checkpoint.ipynb
