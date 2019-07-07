@@ -27,3 +27,16 @@ R/.*
 sklearn/project/ml-at-work
 sklearn/project/python-machine-learning-book-2nd-edition
 .ipynb_checkpoints/05_Predicting_Customer_Shopping_Trends_with_Market_Basket_Analysis-checkpoint.ipynb
+tensorflow/handson-ml
+tensorflow/handson_korean
+tensorflow/tf_logs
+tensorflow/logs
+tensorflow/models
+sklearn/project/02_Training_Simple_Machine_Learning_Algorithms_for_Classification/.ipynb_checkpoints/02_Training_Simple_Machine_Learning_Algorithms_for_Classification(ing)-checkpoint.ipynb
+sklearn/project
+
+tensorflow/.ipynb_checkpoints/01_Up_and_running_with_TensorFlow-checkpoint.ipynb
+tensorflow/.ipynb_checkpoints/02_introduction_to_artificial_neural_networks-checkpoint.ipynb
+tensorflow/.ipynb_checkpoints
+tensorflow/__pycache__/tensorflow_graph_in_jupyter.cpython-36.pyc
+tensorflow/11_deep_learning.ipynb
