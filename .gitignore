@@ -40,3 +40,8 @@ tensorflow/.ipynb_checkpoints/02_introduction_to_artificial_neural_networks-chec
 tensorflow/.ipynb_checkpoints
 tensorflow/__pycache__/tensorflow_graph_in_jupyter.cpython-36.pyc
 tensorflow/11_deep_learning.ipynb
+tensorflow/checkpoint
+R/untitled.dio
+tensorflow/my_model_final.ckpt.data-00000-of-00001
+tensorflow/my_model_final.ckpt.index
+tensorflow/my_model_final.ckpt.meta
