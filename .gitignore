@@ -46,3 +46,4 @@ tensorflow/my_model_final.ckpt.data-00000-of-00001
 tensorflow/my_model_final.ckpt.index
 tensorflow/my_model_final.ckpt.meta
 tensorflow/my_time_series_model.*
+tensorflow/datasets/words/words.zip
